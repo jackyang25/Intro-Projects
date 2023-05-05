@@ -1,0 +1,16 @@
+3-1-east-inf
+streets 8
+eastwestwalls 2 1 1
+eastwestwalls 1 4 4
+eastwestwalls 2 3 3
+eastwestwalls 2 5 5
+eastwestwalls 1 6 7
+eastwestwalls 7 1 7
+northsouthwalls 1 1 2
+northsouthwalls 2 1 2
+northsouthwalls 3 2 2
+northsouthwalls 4 2 2
+northsouthwalls 5 2 2
+northsouthwalls 6 2 2
+northsouthwalls 7 1 7
+beepers 2 4 1

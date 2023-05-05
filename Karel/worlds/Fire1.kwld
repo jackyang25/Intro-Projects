@@ -1,0 +1,47 @@
+8-8-south-inf
+streets 15
+#eastwestwalls 4 5 5
+#eastwestwalls 5 5 5
+#northsouthwalls 4 5 5
+#northsouthwalls 5 5 5
+eastwestwalls 5 4 7
+eastwestwalls 8 4 7
+northsouthwalls 3 6 8
+#northsouthwalls 7 6 8
+#eastwestwalls 5 9 11
+eastwestwalls 2 9 11
+northsouthwalls 8 3 5
+northsouthwalls 11 3 5
+eastwestwalls 6 12 13
+eastwestwalls 9 12 13
+#northsouthwalls 11 7 9
+northsouthwalls 13 7 9
+#eastwestwalls 6 6 6
+#eastwestwalls 7 6 6
+#northsouthwalls 5 7 7
+#northsouthwalls 6 7 7
+
+beepers 8 7 2
+beepers 8 6 1
+beepers 8 5 3
+beepers 8 4 1
+beepers 7 4 2
+beepers 6 4 4
+beepers 6 5 3
+beepers 6 6 1
+beepers 6 7 5
+
+beepers 5 9 2
+beepers 4 9 1
+beepers 3 9 3
+beepers 3 10 4
+beepers 3 11 2
+beepers 4 11 3
+beepers 5 11 3
+
+beepers 7 12 1
+beepers 7 13 3
+beepers 8 13 4
+beepers 9 13 1
+beepers 9 12 5
+
